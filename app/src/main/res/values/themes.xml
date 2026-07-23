@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.KeiRevision" parent="android:Theme.Material.NoActionBar">
+        <item name="android:colorPrimary">#231D23</item>
+        <item name="android:colorAccent">#392F39</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+
+</resources>

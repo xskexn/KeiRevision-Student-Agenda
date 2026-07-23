@@ -19,5 +19,5 @@
 
 ### Installation & Setup
 ```plaintext
-- Android installaation over APK
+- Android installation over APK
 ```

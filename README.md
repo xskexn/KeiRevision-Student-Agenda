@@ -1,7 +1,5 @@
 # KeiRevision Student Agenda
 
----
-
 ## Features
 
 * **Task & Assignment Tracker:** Keep track of homework, projects, and deadlines.
@@ -17,7 +15,21 @@
 - XML
 - SQL
 
-### Installation & Setup
-```plaintext
-- Android installation over APK
-```
+### User Method: Installing via APK
+
+1. **Download the APK:** Head over to the **Releases** section of this repository and download the latest `.apk` file to your Android device.
+2. **Enable Unknown Sources:** If your device blocks the installation, you will need to allow app installation from unknown sources:
+   * Go to **Settings > Apps > Special app access > Install unknown apps** (path may vary slightly depending on your Android version and device manufacturer).
+   * Select the browser or file manager you used to download the APK and toggle **Allow from this source**.
+3. **Install the App:** Open your device's file manager or notification panel, tap the downloaded APK file, and press **Install**.
+4. **Launch:** Open **[App Name]** from your app drawer and enjoy!
+
+---
+
+### Dev Method: Building from Source
+
+1. **Clone the repo:**
+   ```bash
+   git clone [https://github.com/xskexn/YOUR_REPO_NAME.git](https://github.com/xskexn/YOUR_REPO_NAME.git)
+2. Open in Android Studio
+3. Run the App

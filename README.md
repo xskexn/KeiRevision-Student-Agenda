@@ -28,6 +28,6 @@
 
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/xskexn/YOUR_REPO_NAME.git](https://github.com/xskexn/YOUR_REPO_NAME.git)
+   git clone [https://github.com/xskexn/KeiRevision-Student-Agenda](https://github.com/xskexn/KeiRevision-Student-Agenda)
 2. Open in Android Studio
 3. Run the App
